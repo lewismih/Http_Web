@@ -12,8 +12,8 @@ Weather.py is a simple program that retrieves weather information of a place bas
 
 ###LICENSE
 This program was created and tested on:
-	-python 3.6.0
-	-sublime text 2
-	-Mozilla firefox 51.0
-	-Google Chrome 55.0
+	1. python 3.6.0
+	2. sublime text 2
+	3. Mozilla firefox 51.0
+	4. Google Chrome 55.0
 
