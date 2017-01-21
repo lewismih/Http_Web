@@ -7,7 +7,7 @@ weather is a simple program that retrieves climate information of a place based 
 1. Install flask i.e. run pip install flask on the command line
 2. Install requests i.e run pip install requests on the command line
 3. Then you can run the python prog i.e weather.py
-4. Open browser, put this on your address bar and press enter i.e. #####127.0.0.0.1:5000
+4. Open browser, put this on your address bar and press enter i.e. 127.0.0.0.1:5000
 5. Opens a page with instructions on how to check temp and humidity.
 
 ###CONTRIBUTIONS
