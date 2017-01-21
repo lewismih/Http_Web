@@ -1,7 +1,7 @@
-# Http_Web
+# WEATHER
 
 ### PROGRAM DESCRIPTION
-Weather.py is a simple program that retrieves weather information of a place based on city id provided. It is built from OpenWeatherMap free Api. The repository contains two html pages namely: index and temperature. They provide an interface to display the data.
+weather is a simple program that retrieves climate information of a place based on 'CITY ID' provided. It is built from OpenWeatherMap free api. The repository contains a template folder that holds html pages for the program interface.
 
 ###INSTALLATION & RUNNING
 1. Install flask i.e. run pip install flask on the command line
@@ -10,10 +10,9 @@ Weather.py is a simple program that retrieves weather information of a place bas
 4. Open browser, put this on your address bar and press enter i.e. #####127.0.0.0.1:5000
 5. Opens a page with instructions on how to check temp and humidity.
 
-###LICENSE
-This program was created and tested on:
+###CONTRIBUTIONS
 1. python 3.6.0
 2. sublime text 2
-3. Mozilla firefox 51.0
-4. Google Chrome 55.0
+3. Mozilla Firefox 51.0
+4. Google chrome 55.0
 
